@@ -8,8 +8,8 @@ publishDir = "docs"
 [params]
   dateform        = "Jan 2, 2016"
   dateformShort   = "Jan 2"
-  dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04"
+  dateformNum     = "2016-01-02"
+  dateformNumTime = "2016-01-02 15:04"
 
   # Subtitle for home
   homeSubtitle = "This is an example to show how cool Hugo and GitHub pages are together"
