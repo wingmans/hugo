@@ -1,4 +1,4 @@
-baseurl      = "https://wingmans.github.io/"
+baseurl      = "https://wingmans.github.io/hugo"
 title        = "db-docs"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
